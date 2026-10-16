@@ -19,7 +19,8 @@ Animated starfield with shooting stars, CPU/GPU load, temperatures, fan speeds, 
 
 ## Install a template
 
-1. Download the `.zip` from [Releases](../../releases). **Do not unzip it.**
+1. Open [Releases](../../releases) and under **Assets** download the file named after the template, e.g. `ArcRaiders_001_v01.zip`. **Do not unzip it.**
+   ⚠️ Not "Source code (zip)" – that is the toolkit, L-Connect will say the format is not supported.
 2. Open L-Connect 3 → **Universal Screen** → **LCD Screen Setup** → **Template**.
 3. Make sure the screen is in **portrait** orientation.
 4. Click the **"+"** tile, select the ZIP.
@@ -79,7 +80,8 @@ Geef een standaardtemplate een eigen (bewegende) achtergrond, met behoud van de 
 
 ### Template installeren
 
-1. Download de `.zip` via [Releases](../../releases). **Niet uitpakken.**
+1. Open [Releases](../../releases) en download onder **Assets** het bestand met de naam van de template, bijvoorbeeld `ArcRaiders_001_v01.zip`. **Niet uitpakken.**
+   ⚠️ Niet "Source code (zip)": dat is de toolkit, en dan meldt L-Connect dat het formaat niet wordt ondersteund.
 2. Open L-Connect 3 → **Universal Screen** → **LCD Screen Setup** → **Template**.
 3. Zet het scherm op **staand** (portrait).
 4. Klik op de **"+"**-tegel en kies de ZIP.
