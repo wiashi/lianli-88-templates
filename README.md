@@ -5,13 +5,15 @@ Give any built-in template a new (animated) background while keeping its layout 
 
 🇳🇱 [Nederlandse uitleg staat hieronder](#nederlands).
 
-![ARC Raiders – Samurai layout](docs/arc-raiders-samurai-preview.png)
+![ArcRaiders_001_v01](docs/arc-raiders-samurai-preview.png)
 
 ## Templates
 
-| Template | Based on | Orientation | Download |
+| Template | Layout (based on) | Orientation | Download |
 |---|---|---|---|
-| **ARC Raiders – Samurai** | built-in "samurai" (88016_) | portrait | see [Releases](../../releases) |
+| **ArcRaiders_001_v01** | built-in "samurai" (88016_), info block 75 px up | portrait | see [Releases](../../releases) |
+
+Naming: `<Game>_<design number>_v<version>` – a new design gets the next number, small tweaks bump the version.
 
 Animated starfield with shooting stars, CPU/GPU load, temperatures, fan speeds, RAM, date and time.
 
@@ -94,6 +96,10 @@ python tools/build_template.py --base 88016_.template --background mijn_afbeeldi
 ```
 
 De ZIP verschijnt in `out/<naam>/`; `preview.png` laat zien hoe het eruit komt te zien. Alle opties staan in de Engelse tabel hierboven.
+
+### Naamgeving
+
+`<Game>_<ontwerpnummer>_v<versie>`, bijvoorbeeld `ArcRaiders_001_v01`. Een nieuw ontwerp krijgt het volgende nummer; kleine aanpassingen verhogen de versie.
 
 ### Rechten
 
