@@ -1,0 +1,7 @@
+out/
+__pycache__/
+*.pyc
+*.template
+*.h264
+*.mp4
+*.zip
